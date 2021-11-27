@@ -1,13 +1,11 @@
 /*
-   BYJ48 Stepper motor code
-   Connect :
+   BYJ48 Stepper 
+   Əlaqə pinləri
    IN1 >> D8
    IN2 >> D9
    IN3 >> D10
    IN4 >> D11
    VCC ... 5V Prefer to use external 5V Source
-   Gnd
-     7/2/2021
   */
 
 #define IN1  8
